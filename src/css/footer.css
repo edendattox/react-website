@@ -1,0 +1,21 @@
+.footer-container {
+  display: flex;
+  align-items: center;
+  align-items: space-around;
+  flex-direction: column;
+  background-color: #383838;
+  padding: 50px;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.footer-links > h5 {
+  color: bisque;
+  font-size: 15px;
+  margin-top: 10px;
+  text-decoration: none;
+  margin-left: 8px;
+}
